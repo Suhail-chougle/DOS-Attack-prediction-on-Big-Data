@@ -12,7 +12,7 @@ The project encompasses the following key steps in data manipulation and analysi
 
 3. Addressing Class Imbalance: Class imbalances in the data are tackled to avoid biased predictions and enhance the accuracy of the analysis.
 
-4. ML Pipeline Development: ML pipelines are created, encompassing essential stages such as string indexing, vector assembling, and user-defined functions to format the data optimally for machine learning algorithms.
+4. ML Pipeline Development: ML pipelines are created, encompassing essential stages such as string indexing, vector assembling, standard scaling, and user-defined functions to format the data optimally for machine learning algorithms.
 
 **Machine Learning Algorithms Used:**
 
